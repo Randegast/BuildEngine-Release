@@ -44,7 +44,7 @@ Features:
 
 <h3>Manual & PNG</h3>
 
-The manual provided is a first draft for myself, but can be used for education.
+The manual provided is a first draft for myself, but can be used for education purposes.
 
 <br>
 <br>
